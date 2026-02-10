@@ -1,0 +1,17 @@
+{
+  "name": "github-trophies",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "tsc --noEmit"
+  },
+  "dependencies": {
+    "axios": "^1.7.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.0",
+    "@vercel/node": "^3.0.0",
+    "typescript": "^5.3.0"
+  }
+}
